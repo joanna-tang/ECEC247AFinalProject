@@ -115,6 +115,7 @@ Best results achieved for each architecture:
 | Architecture | Best Test CER |
 |---|---|
 | CNN baseline | 24.9 |
+| CNN best tuned | 19.8 |
 | CNN + noise + normalization | 20.8 |
 | Vanilla RNN | 28.9 |
 | LSTM | 20.8 |
